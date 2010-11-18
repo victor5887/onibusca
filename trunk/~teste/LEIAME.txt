@@ -1,0 +1,1 @@
+Vamos "tentar" colocar todos os exemplos e testes dentro desta pasta para separar testes do produto final.
